@@ -42,8 +42,8 @@
 # [url "git://gist.github.com/"]
 #   insteadOf = "gist:"
 [user]
-  name = Ryan Arneson
-  email = arneson@gmail.com
+  name = Merima Mahmic
+  email = mahm0023@umn.edu
 [difftool "sourcetree"]
   cmd = opendiff \"$LOCAL\" \"$REMOTE\"
   path = 

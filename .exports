@@ -40,3 +40,5 @@ export PATH=$PATH:$ORACLE_BIN
 
 # SVN
 export SVN_EDITOR='vim'
+
+export PATH="$PATH:/usr/local/Cellar"
